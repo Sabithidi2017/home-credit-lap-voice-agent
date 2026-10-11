@@ -1,6 +1,6 @@
 # Test 12 — Busy Customer → Callback Request
 
-**Recording:** [PASTE RETELL RECORDING LINK HERE]
+**Recording:** https://drive.google.com/file/d/1Cf0-UD5Bct6qqpTDvQtk1xoWs34yu5gz/view?usp=sharing
 **Transcript source:** Retell AI call log
 **Duration:** ~0m 41s
 **Date tested:** 2026-10-11
