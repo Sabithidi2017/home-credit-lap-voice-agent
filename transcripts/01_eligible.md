@@ -2,7 +2,7 @@
 
 **Recording:** (https://drive.google.com/file/d/1QtxB4PnWe_sVnuapsIeOvT9V7dx9YqDg/view?usp=sharing)
 **Transcript source:** Retell AI call log
-**Duration:** 2m
+**Duration:** ~2m
 **Date tested:** 2026-10-11
 **Language:** Hinglish (English → Hindi mirroring)
 **Agent gender:** Female (feminine Hindi forms enforced)
